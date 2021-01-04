@@ -5,7 +5,7 @@ function App() {
     <div className="App">
       <header className="App-header">    
       <p>
-      <a className="App-link" href="https://drive.google.com/file/d/1DZUEaPmTHrvHnKF54-JNBcYzyO8tXwa6/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>&nbsp;|&nbsp;
+      <a className="App-link" href="https://drive.google.com/file/d/1Hq0JqeuBm4yMEeoggcym3SFiXncpOJlV/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>&nbsp;|&nbsp;
       <a className="App-link" href="https://github.com/andrewbridglall" target="_blank" rel="noopener noreferrer">Github</a>&nbsp;|&nbsp;
       <a className="App-link" href="https://www.linkedin.com/in/andrewbridglall/" target="_blank" rel="noopener noreferrer">Linkedin</a>&nbsp;|&nbsp;
       <a className="App-link" href="mailto:akb101@georgetown.edu" target="_blank" rel="noopener noreferrer">Email</a>

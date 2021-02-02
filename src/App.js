@@ -8,7 +8,7 @@ function App() {
       <a className="App-link" href="https://drive.google.com/file/d/1w1By7IwPrYxjmLFnWdwlNkUjAIBCXRhc/view?usp=sharing" target="_blank" rel="noopener noreferrer">Resume</a>&nbsp;|&nbsp;
       <a className="App-link" href="https://github.com/andrewbridglall" target="_blank" rel="noopener noreferrer">Github</a>&nbsp;|&nbsp;
       <a className="App-link" href="https://www.linkedin.com/in/andrewbridglall/" target="_blank" rel="noopener noreferrer">Linkedin</a>&nbsp;|&nbsp;
-      <a className="App-link" href="mailto:akb101@georgetown.edu" target="_blank" rel="noopener noreferrer">Email</a>
+      <a className="App-link" href="mailto:andrew.bridglall@gmail.com" target="_blank" rel="noopener noreferrer">Email</a>
         </p>    
       Hi, I'm Andrew Bridglall.
         <p>

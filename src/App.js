@@ -12,7 +12,7 @@ function App() {
         </p>    
       Hi, I'm Andrew Bridglall.
         <p>
-          Math+CS at Georgetown. Class of 2021. Ex-WeWork Labs.
+          Software Engineer at Apogee Integration. Math+CS at Georgetown.
         </p>
         
       </header>
